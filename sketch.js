@@ -501,7 +501,7 @@ function attack() {
         attackGroup.add(chidori);
         chidori.addImage(chidoriImg);
         chidori.scale = 0.1;
-        chidori.debug=true;
+       // chidori.debug=true;
         
     }
 }
